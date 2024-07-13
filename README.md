@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/6058a7b1-46f0-4c60-abe4-07f87c6667d9)
 
 # Rice Leaf Diseases Detection using CNN
+Original Github Organization : https://github.com/Capstone-Project-Padi-Care
 
 ## Bangkit 2023 Capstone Project - C23-PS226 
 - **M350DSX0169 - Ivan Tandela- Universitas Sumatera Utara - Machine Learning**
