@@ -4,7 +4,7 @@
 Original Github Organization : https://github.com/Capstone-Project-Padi-Care
 
 ## Bangkit 2023 Capstone Project - C23-PS226 
-- **M350DSX0169 - Ivan Tandela- Universitas Sumatera Utara - Machine Learning**
+- **M350DSX0169 - Ivan Tandella- Universitas Sumatera Utara - Machine Learning**
 - **M350DSY0137 - Putri Yanti Nahampun - Universitas Sumatera Utara - Machine Learning**
 - A350DKX4428 - Reinaldhy Suzeta Purba - Universitas Sumatera Utara- Mobile Development
 - A163DSX2278 - Muhammad Khoirul Afwan - Universitas Dian Nuswantoro- Mobile Development
