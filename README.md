@@ -1,6 +1,13 @@
-![image](https://github.com/user-attachments/assets/6058a7b1-46f0-4c60-abe4-07f87c6667d9)
 
-# Rice Leaf Diseases Detection using CNN
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/6058a7b1-46f0-4c60-abe4-07f87c6667d9">
+</p>
+
+
+<h1 align="center">Rice Leaf Diseases Detection using CNN</h1> 
+
+
 Original Github Organization : https://github.com/Capstone-Project-Padi-Care
 
 ## Bangkit 2023 Capstone Project - C23-PS226 
